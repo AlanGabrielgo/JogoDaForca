@@ -1,4 +1,4 @@
 # JogoDaForca
 Trabalho Marcao
 Alan Gabriel 1135335
-Bernardo Signorini
+Bernardo Signorini 1135213
